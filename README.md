@@ -7,6 +7,7 @@ a series knowledge, including unity, AR, VR et.
 transform 改变物体大小；
 #### 1.1.2 快捷键
 Q W E R 切换左上角不同的工具
+ctrl+shift+B 构建设置
 #### 1.1.3 mesh renderer
 材质；
 shader选择光照形式（标准的为standard，Unlit Shader不会参与光照计算，也可以自己写一个光照形式-create-shader-standard surface shader）
@@ -26,3 +27,4 @@ ParticleSystem 产生粒子效果；
 使用C#脚本（MonoScript）来进行编程
 
 选择对象，通过添加组件，输入名字快速创建一个脚本（如PlayerMovement），也可以在工程窗口中创建C#脚本，然后将脚本拖拽到对象上，双击脚本的名字可以在IDE中打开并编辑它
+#### 1.1.7 构建设置（building settings）
